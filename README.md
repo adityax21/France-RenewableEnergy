@@ -1,4 +1,4 @@
-# France-RenewableEnergy
+# Critical Analysis of Renewable Energy Resources - France
 An analysis of renewable energy and CO2 emission patterns of France from 1990 to 2020. Forecasting upto 2025.
 
 ### Tools Used
